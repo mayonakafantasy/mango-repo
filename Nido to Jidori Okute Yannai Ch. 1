@@ -1,0 +1,17 @@
+{
+  "title": "<Nido to Jidori Okutte Yannai!>",
+  "description": "<>",
+  "artist": "<Takeya Takekake>",
+  "author": "<Takeya Takekake>",
+  "cover": "<https://i.imgur.com/NUGI0ev.png>",
+  "chapters": {
+    "<1>": {
+      "title": "<Thank you>",
+      "volume": "<1>",
+      "groups": {
+        "<a fantasy at midnight>": "/proxy/api/imgur/chapter/uzXLENs/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
