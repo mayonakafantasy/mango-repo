@@ -1,15 +1,15 @@
 {
-  "title": "<Nido to Jidori Okutte Yannai!>",
-  "description": "<My childhood friend keeps asking me for a selfie to use as a reference for his drawing, What do I do?>",
-  "artist": "<Takeya Takekake>",
-  "author": "<Takeya Takekake>",
-  "cover": "<i.imgur.com/NUGI0ev.png>",
+  "title": "Nido to Jidori Okutte Yannai!",
+  "description": "My childhood friend keeps asking me for a selfie to use as a reference for his drawing, What do I do?",
+  "artist": "Takeya Takekake",
+  "author": "Takeya Takekake",
+  "cover": "i.imgur.com/NUGI0ev.png",
   "chapters": {
-    "<1>": {
-      "title": "<Thank you>",
-      "volume": "<1>",
+    "1": {
+      "title": "Thank you",
+      "volume": "1",
       "groups": {
-        "<a fantasy at midnight>": "/proxy/api/imgur/chapter/uzXLENs/"
+        "a fantasy at midnight": "/proxy/api/imgur/chapter/uzXLENs/"
       },
       "last_updated": "1627732800"
     }
