@@ -15,11 +15,11 @@
       },
   }
 }
- "<2>": {
-      "title": "<Is this okay?>",
-      "volume": "<1>",
+ "2": {
+      "title": "Is this okay?",
+      "volume": "1",
       "groups": {
-        "<a fantasy at midnight>": "/proxy/api/imgur/chapter/LmVQESw/"
+        "a fantasy at midnight": "/proxy/api/imgur/chapter/LmVQESw/"
       },
       "last_updated": "1628185878"
     }
