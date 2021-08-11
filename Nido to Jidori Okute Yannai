@@ -28,6 +28,14 @@
         "a fantasy at midnight": "/proxy/api/imgur/chapter/WWKel2X/"
       },
       "last_updated": "1628343693"
-    }
+    },
+  "4": {
+      "title": "Don't get your hopes up",
+      "volume": "1",
+      "groups": {
+        "a fantasy at midnight": "/proxy/api/imgur/chapter/wDz32nY/"
+      },
+      "last_updated": "1628703107"
+    }    
   }
 }
