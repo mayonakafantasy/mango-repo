@@ -14,12 +14,20 @@
       "last_updated": "1628422686"
     },
  "2": {
-      "title": "Sproouting Green",
+      "title": "Sprouting Green",
       "volume": "1",
       "groups": {
         "a fantasy at midnight": "/proxy/api/imgur/chapter/wVr8UG4/"
       },
       "last_updated": "1629042521"
+    },
+ "3": {
+      "title": "Invaluable Gold",
+      "volume": "1",
+      "groups": {
+        "a fantasy at midnight": "/proxy/api/imgur/chapter/PCWYbtO/"
+      },
+      "last_updated": "1629305185"
     }   
   }
 }
