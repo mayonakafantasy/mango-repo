@@ -36,6 +36,14 @@
         "a fantasy at midnight": "/proxy/api/imgur/chapter/wDz32nY/"
       },
       "last_updated": "1628703107"
+    },
+  "5": {
+      "title": "This is the right answer",
+      "volume": "1",
+      "groups": {
+        "a fantasy at midnight": "/proxy/api/imgur/chapter/ankT6nf/"
+      },
+      "last_updated": "1630723314"
     }    
   }
 }
