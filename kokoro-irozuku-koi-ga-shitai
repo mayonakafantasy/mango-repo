@@ -36,6 +36,14 @@
         "a fantasy at midnight": "/proxy/api/imgur/chapter/ZearVYY/"
       },
       "last_updated": "1631593059"
+    },
+    "4.5": {
+      "title": "Extra",
+      "volume": "1",
+      "groups": {
+        "a fantasy at midnight": "/proxy/api/imgur/chapter/6xxkCDB/"
+      },
+      "last_updated": "1631842831"
     }
   }
 }
